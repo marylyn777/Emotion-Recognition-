@@ -1,5 +1,6 @@
 # Emotion-Recognition-CNN
 A lightweight CNN-based system for real-time facial emotion recognition using the FER2013 dataset. The model classifies faces into seven emotions: anger, disgust, fear, happiness, sadness, surprise, and neutral.
+
 Features:
 1) Trained on FER2013 (35,887 grayscale 48×48 images)
 2) Built with PyTorch, Gradio, and OpenCV
